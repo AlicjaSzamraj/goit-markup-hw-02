@@ -1,1 +1,1 @@
-https://alicjaszamraj.github.io/goit-markup-hw-01/
+https://alicjaszamraj.github.io/goit-markup-hw-02/
