@@ -31,11 +31,20 @@ body {
     letter-spacing: 0.02em;
     color:#2E2F42;
     }
-.link:hover {
+.link:hover{
     color: #404bbf;
     }
-.link:focus {
+.link:focus{
     color: #404bbf;
     }
+.address{
+    font-style: normal;
+    }
+.address_points{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
     
