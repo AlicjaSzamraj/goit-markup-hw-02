@@ -86,11 +86,24 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     }
-    .header_section_three{
+.header_section_three{
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2e2f42;
+    }
+.section_four{
+    background-color: #F4F4FD;
+    }
+.section_points{
+    background-color: #FFFFFF;
+    }
+.workers_name {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
     }
