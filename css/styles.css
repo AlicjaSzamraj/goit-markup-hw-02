@@ -110,7 +110,7 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var (--dark_grey1);
+    color: var(--dark_grey1);
     }
 .paragraph_section_four{
     color:var(--dark_grey2);
