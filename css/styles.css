@@ -120,7 +120,7 @@ body {
     }
 .footer{
     background-color:var(--dark_grey1);
-}
+    }
 .studio_footer{
     color: var(--white2);
     }
@@ -128,7 +128,7 @@ body {
     line-height: 1.5;
     color: var(--white2);
     letter-spacing: 0.02em;
-}
+    }
 .buttons {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -138,25 +138,25 @@ body {
     color: var(--blue1);
     background-color: var(--white2);
     cursor: pointer;
-}
+    }
 .buttons:hover {
     color: var(--white1);
     background-color: var(--blue2);
-}
+    }
 .buttons:focus {
     color: var(--white1);
     background-color: var(--blue2);
-}
+    }
 .link_pictures {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--dark_grey1);
-}
+    }
 .link_paragraphs {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--dark_grey2)
-}
+    }
