@@ -137,10 +137,13 @@ body {
     letter-spacing: 0.04em;
     color: var(--blue1);
     background-color: var(--white2);
+    cursor: pointer;
 }
 .buttons:hover {
     color: var(--white1);
+    background-color: var(--blue2);
 }
 .buttons:focus {
     color: var(--white1);
+    background-color: var(--blue2);
 }
