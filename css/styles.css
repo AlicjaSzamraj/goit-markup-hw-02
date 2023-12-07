@@ -129,3 +129,18 @@ body {
     color: var(--white2);
     letter-spacing: 0.02em;
 }
+.buttons {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--blue1);
+    background-color: var(--white2);
+}
+.buttons:hover {
+    color: var(--white1);
+}
+.buttons:focus {
+    color: var(--white1);
+}
