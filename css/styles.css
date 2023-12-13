@@ -2,7 +2,7 @@ body {
     font-family:"Roboto",sans-serif;
     color: #434455;
     background-color: var(--white1);
-   }
+    }
 :root{
     --white1: #FFFFFF;
     --blue1:#4d5ae5;
@@ -78,14 +78,14 @@ body {
 .header_button:focus{
     background-color:var(--blue2);
     }
-.headers_section_two {
+.title_of_picture{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:var(--dark_grey1);
     }
-.paragraphs_section_two {
+.paragraphs{
     color: var(--dark_grey2);
     font-size: 16px;
     line-height: 1.5;
@@ -98,25 +98,12 @@ body {
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: var(--dark_grey1);
-    }
+        }
 .section_four{
     background-color:var(--white2);
     }
 .section_points{
     background-color:var(--white1);
-    }
-.workers_name {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--dark_grey1);
-    }
-.paragraph_section_four{
-    color:var(--dark_grey2);
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
     }
 .footer{
     background-color:var(--dark_grey1);
@@ -129,7 +116,7 @@ body {
     color: var(--white2);
     letter-spacing: 0.02em;
     }
-.buttons {
+.buttons{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -146,17 +133,4 @@ body {
 .buttons:focus {
     color: var(--white1);
     background-color: var(--blue2);
-    }
-.link_pictures {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--dark_grey1);
-    }
-.link_paragraphs {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--dark_grey2)
     }
